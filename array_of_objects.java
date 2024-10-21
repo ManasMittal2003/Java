@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class stu {
     String name;
     int age;
